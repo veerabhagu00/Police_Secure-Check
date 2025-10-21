@@ -1,4 +1,4 @@
-# Police_Secure-CheckData Science Project Summary: SecureCheck: A Python-SQL Digital Ledger for Police Post Logs
+# Data Science Project Summary: SecureCheck: A Python-SQL Digital Ledger for Police Post Logs
 
 **Project Overview**
 
